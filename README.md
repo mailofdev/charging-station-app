@@ -53,8 +53,8 @@ Change: `port = 5433` then restart PostgreSQL.
 psql -U postgres -p 5433
 
 # Run these SQL commands:
-CREATE DATABASE "ChargingStationDB";
-ALTER USER postgres WITH PASSWORD '1234';
+CREATE DATABASE "YOUR_DATABASE";
+ALTER USER postgres WITH PASSWORD 'YOUR_PASSWORD';
 \q
 ```
 
@@ -73,7 +73,7 @@ dotnet restore
 dotnet build
 
 # Verify database connection string in appsettings.json:
-# Host=localhost;Port=5433;Database=ChargingStationDB;Username=postgres;Password=1234
+# Host=localhost;Port=5433;Database=YOUR_DATABASE;Username=postgres;Password=YOUR_PASSWORD
 ```
 
 ### Step 3: Setup Frontend
@@ -132,7 +132,7 @@ Edit `ChargingStationAPI/appsettings.json`:
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Host=localhost;Port=5433;Database=ChargingStationDB;Username=postgres;Password=YOUR_PASSWORD"
+    "DefaultConnection": "Host=localhost;Port=5433;Database=YOUR_DATABASE;Username=postgres;Password=YOUR_PASSWORD"
   }
 }
 ```
