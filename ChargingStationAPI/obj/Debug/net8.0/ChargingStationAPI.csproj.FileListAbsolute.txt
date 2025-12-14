@@ -31,3 +31,11 @@
 /Users/apple/WORK/arbin/charging-station-app/ChargingStationAPI/obj/Debug/net8.0/ChargingStationAPI.pdb
 /Users/apple/WORK/arbin/charging-station-app/ChargingStationAPI/obj/Debug/net8.0/ChargingStationAPI.genruntimeconfig.cache
 /Users/apple/WORK/arbin/charging-station-app/ChargingStationAPI/obj/Debug/net8.0/ref/ChargingStationAPI.dll
+/Users/apple/WORK/arbin/charging-station-app/ChargingStationAPI/obj/Debug/net8.0/ChargingStationAPI.sourcelink.json
+/Users/apple/WORK/arbin/charging-station-app/ChargingStationAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/apple/WORK/arbin/charging-station-app/ChargingStationAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/apple/WORK/arbin/charging-station-app/ChargingStationAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/apple/WORK/arbin/charging-station-app/ChargingStationAPI/bin/Debug/net8.0/Npgsql.dll
+/Users/apple/WORK/arbin/charging-station-app/ChargingStationAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/apple/WORK/arbin/charging-station-app/ChargingStationAPI/bin/Debug/net8.0/ChargingStationAPI.xml
+/Users/apple/WORK/arbin/charging-station-app/ChargingStationAPI/obj/Debug/net8.0/ChargingStationAPI.xml

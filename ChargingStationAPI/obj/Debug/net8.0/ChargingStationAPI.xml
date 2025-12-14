@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChargingStationAPI</name>
+    </assembly>
+    <members>
+        <member name="M:ChargingStationAPI.Controllers.ChargingStationsController.GetAllChargingStations">
+            <summary>
+            getAllChargingStations - Get all data
+            </summary>
+        </member>
+        <member name="M:ChargingStationAPI.Controllers.ChargingStationsController.GetChargingStationById(System.Int32)">
+            <summary>
+            GetChargingStationById - Get single data
+            </summary>
+        </member>
+        <member name="M:ChargingStationAPI.Controllers.ChargingStationsController.AddChargingStation(ChargingStationAPI.Models.ChargingStation)">
+            <summary>
+            AddChargingStation - Add new
+            </summary>
+        </member>
+        <member name="M:ChargingStationAPI.Controllers.ChargingStationsController.UpdateChargingStationById(System.Int32,ChargingStationAPI.Models.ChargingStation)">
+            <summary>
+            updateChargingStationById - Update data
+            </summary>
+        </member>
+        <member name="M:ChargingStationAPI.Controllers.ChargingStationsController.DeleteChargingStationById(System.Int32)">
+            <summary>
+            deleteChargingStationById - Delete data
+            </summary>
+        </member>
+    </members>
+</doc>

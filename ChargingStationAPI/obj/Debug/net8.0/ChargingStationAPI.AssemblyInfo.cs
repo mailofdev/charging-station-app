@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChargingStationAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2feaf952497300abf0c35fc59f10a683c14de7c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChargingStationAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChargingStationAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
